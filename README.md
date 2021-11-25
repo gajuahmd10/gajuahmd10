@@ -19,6 +19,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+##### PROGRAMMING LANGUAGE AND 
+
+<p align="left">
+<a href="#"><img alt="python" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+<a href="#"><img alt="PHP" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+<a href="#"><img alt="R" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+<a href="#"><img alt="Javascript" src="https://img.shields.io/badge/Scss-hotpink.svg?logo=SASS&logoColor=white"></a>
+<!-- <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+<a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a> -->
+</p>
+
+
 ##### SOFTWARE AND TOOLS
 
 <p align="left">
