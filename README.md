@@ -6,13 +6,13 @@ I'am Gaju from Bangladesh and I love to do stuff like analysing and modeling dat
 
 - ✍️ Write Content on Medium
 - :boom: I’m looking to collaborate on Open Source project.
-- 💂‍ ♂️Full time kaggler
+- 💂‍ ♂️ Full time kaggler
 
 ##### BIO
 
 - I'm currently working Research Asistance
-- I use daily: `python`, `tensorflow`, `keras` , `OpenCV`, `Sklearn`, `Tableau`, `.psd`
-- I'm mostly active with in the [personal skill develop]  [Machine Learning]
+- I use daily: `python`, `Tensorflow`,`Pytorch` `Keras` , `OpenCV`, `Sklearn`, `Tableau`, 
+- I'm mostly active with in the [personal skill develop]  [Machine Learning] [Computer Vision][NLP]
 
 
 
