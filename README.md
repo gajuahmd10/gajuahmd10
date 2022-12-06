@@ -4,9 +4,9 @@ I'am Gaju from Bangladesh and I love to do stuff like analysing and modeling dat
 
 ### Now
 
-- ✍️ Write Content on Medium
+- ✍️ Write Content on Medium 
 - :boom: I’m looking to collaborate on Open Source project.
-- 💂‍ ♂️ Full time kaggler
+- 💂‍ ♂️ Full time kaggler : <a href="https://www.kaggle.com/gazu468">here</a>
 
 ##### BIO
 
