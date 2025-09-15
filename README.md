@@ -4,6 +4,7 @@ I am Gaju from Bangladesh and love to do any kind of stuff related data like Dat
 
 ### Now
 
+- Data Analytics at LRL
 - ✍️ Write Content on Medium
 - :boom: I’m looking to collaborate on an Open Source project.
 - Try To Learn Data Engineering Stuff and Kaggle Competition.
